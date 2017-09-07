@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/patrickhennis/Desktop/JLab/c++/clara-cpp/cmake-build-debug/src/CMakeFiles/miloyip-rapidjson"
+		},
+		
+		{
+			"file" : "/Users/patrickhennis/Desktop/JLab/c++/clara-cpp/cmake-build-debug/src/CMakeFiles/miloyip-rapidjson.rule"
+		},
+		
+		{
+			"file" : "/Users/patrickhennis/Desktop/JLab/c++/clara-cpp/cmake-build-debug/src/CMakeFiles/miloyip-rapidjson-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/patrickhennis/Desktop/JLab/c++/clara-cpp/cmake-build-debug/ThirdParty/src/miloyip-rapidjson-stamp/miloyip-rapidjson-install.rule"
+		},
+		
+		{
+			"file" : "/Users/patrickhennis/Desktop/JLab/c++/clara-cpp/cmake-build-debug/ThirdParty/src/miloyip-rapidjson-stamp/miloyip-rapidjson-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/patrickhennis/Desktop/JLab/c++/clara-cpp/cmake-build-debug/ThirdParty/src/miloyip-rapidjson-stamp/miloyip-rapidjson-download.rule"
+		},
+		
+		{
+			"file" : "/Users/patrickhennis/Desktop/JLab/c++/clara-cpp/cmake-build-debug/ThirdParty/src/miloyip-rapidjson-stamp/miloyip-rapidjson-update.rule"
+		},
+		
+		{
+			"file" : "/Users/patrickhennis/Desktop/JLab/c++/clara-cpp/cmake-build-debug/ThirdParty/src/miloyip-rapidjson-stamp/miloyip-rapidjson-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/patrickhennis/Desktop/JLab/c++/clara-cpp/cmake-build-debug/ThirdParty/src/miloyip-rapidjson-stamp/miloyip-rapidjson-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/patrickhennis/Desktop/JLab/c++/clara-cpp/cmake-build-debug/ThirdParty/src/miloyip-rapidjson-stamp/miloyip-rapidjson-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "miloyip-rapidjson" ],
+		"name" : "miloyip-rapidjson"
+	}
+}
