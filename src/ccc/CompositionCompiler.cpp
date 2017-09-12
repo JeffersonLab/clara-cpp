@@ -3,3 +3,7 @@
 //
 
 #include "CompositionCompiler.h"
+
+int main() {
+    return 0;
+}
