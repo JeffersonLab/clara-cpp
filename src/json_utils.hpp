@@ -63,5 +63,4 @@ inline void put(Writer& writer, const char* key, double value)
 } // end namespace util
 } // end namespace clara
 
-
 #endif // end of include guard: CLARA_JSON_UTILS_HPP
