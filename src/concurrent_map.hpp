@@ -30,6 +30,7 @@
 namespace clara {
 namespace util {
 
+
 template <typename K, typename T>
 class ConcurrentMap
 {

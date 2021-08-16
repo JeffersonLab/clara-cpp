@@ -35,7 +35,6 @@ struct DpeConfig final
     int max_cores;
     int report_period;
 };
-
 } // end namespace clara
 
 #endif // end of include guard: CLARA_DPE_CONFIG_HPP

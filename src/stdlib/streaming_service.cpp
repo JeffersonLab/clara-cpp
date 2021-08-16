@@ -1,6 +1,10 @@
 //
 // Created by Vardan Gyurjyan on 1/23/21.
 //
+// This is a stream service that accepts 4 VTP streams and presents at
+// its output aggregated and processed stream of data.
+// This is an example just to jump start the effort of legacy streaming framework integration.
+//
 
 #include "clara/stdlib/streaming_service.hpp"
 #include <clara/stdlib/json_utils.hpp>

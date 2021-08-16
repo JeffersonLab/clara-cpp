@@ -1,6 +1,10 @@
 //
 // Created by Vardan Gyurjyan on 1/23/21.
 //
+// This is a stream service that accepts 4 VTP streams and presents at
+// its output aggregated and processed stream of data.
+// This is an example just to jump start the effort of legacy streaming framework integration.
+//
 
 #ifndef CLARA_STREAMING_SERVICE_HPP
 #define CLARA_STREAMING_SERVICE_HPP
